@@ -1,0 +1,27 @@
+{
+  "name": "megan-eats",
+  "version": "0.0.0",
+  "description": "choose what megan eats!",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingtoocrazy/megan-eats.git"
+  },
+  "keywords": [
+    "megan",
+    "eats"
+  ],
+  "author": "Megan Kim, Rhythm Mehta, Taylor Sturtz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nothingtoocrazy/megan-eats/issues"
+  },
+  "homepage": "https://github.com/nothingtoocrazy/megan-eats#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
